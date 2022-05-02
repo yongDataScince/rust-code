@@ -1,0 +1,22 @@
+[
+  {
+    "name": "0",
+    "subjects": [1, 2, 3]
+  },
+  {
+    "name": "1",
+    "subjects": [0, 3]
+  },
+  {
+    "name": "2",
+    "subjects": [0, 4]
+  },
+  {
+    "name": "3",
+    "subjects": [0, 1]
+  },
+  {
+    "name": "4",
+    "subjects": [2]
+  }
+]
